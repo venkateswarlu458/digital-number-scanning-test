@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cde8ae23-d41a-4d63-bf43-76eb3dca2d03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nufIU6Lpx2fVMAEIIjND1lPwji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="digital.number.scanner.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="digital.number.scanner.service" />
+      <recent name="com.digital.number.scanner.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Technology\Projects\java-interviews-master\digital-number-scanning\target\classes" />
+      <recent name="C:\Technology\Projects\java-interviews-master\digital-number-scanning" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile" />
+      <command value="mvn clean compile test" />
+      <command value="mvn test" />
+      <command value="mvn clean compile package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ScannerServiceIntegrationImplTest.testScanner (1)">
+    <configuration name="ScannerServiceIntegrationImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digital-number-scanning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digital.number.scanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="digital.number.scanner.service" />
+      <option name="MAIN_CLASS_NAME" value="digital.number.scanner.service.ScannerServiceIntegrationImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerServiceIntegrationImplTest.testScanner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digital-number-scanning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digital.number.scanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="digital.number.scanner.service" />
+      <option name="MAIN_CLASS_NAME" value="digital.number.scanner.service.ScannerServiceIntegrationImplTest" />
+      <option name="METHOD_NAME" value="testScanner" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[example3]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerServiceIntegrationImplTest.testScanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digital-number-scanning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digital.number.scanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="digital.number.scanner.service" />
+      <option name="MAIN_CLASS_NAME" value="digital.number.scanner.service.ScannerServiceIntegrationImplTest" />
+      <option name="METHOD_NAME" value="testScanner" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[example3]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerServiceIntegrationImplTest.testScanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digital-number-scanning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digital.number.scanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="digital.number.scanner.service" />
+      <option name="MAIN_CLASS_NAME" value="digital.number.scanner.service.ScannerServiceIntegrationImplTest" />
+      <option name="METHOD_NAME" value="testScanner" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="[example3]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerServiceUnitTest.testFinalNumberWithInCorrectLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digital-number-scanning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digital.number.scanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="digital.number.scanner.service" />
+      <option name="MAIN_CLASS_NAME" value="digital.number.scanner.service.ScannerServiceUnitTest" />
+      <option name="METHOD_NAME" value="testFinalNumberWithInCorrectLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerServiceUnitTest.testFinalNumberWithInCorrectLineLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="digital-number-scanning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digital.number.scanner.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="digital.number.scanner.service" />
+      <option name="MAIN_CLASS_NAME" value="digital.number.scanner.service.ScannerServiceUnitTest" />
+      <option name="METHOD_NAME" value="testFinalNumberWithInCorrectLineLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScannerServiceIntegrationImplTest.testScanner (1)" />
+        <item itemvalue="JUnit.ScannerServiceIntegrationImplTest.testScanner" />
+        <item itemvalue="JUnit.ScannerServiceIntegrationImplTest" />
+        <item itemvalue="JUnit.ScannerServiceUnitTest.testFinalNumberWithInCorrectLineLength" />
+        <item itemvalue="JUnit.ScannerServiceUnitTest.testFinalNumberWithInCorrectLine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cde8ae23-d41a-4d63-bf43-76eb3dca2d03" name="Default Changelist" comment="" />
+      <created>1612244816970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612244816970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="158" key="#Project_Structure" timestamp="1612245489164">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2472" y="158" key="#Project_Structure/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612245489164" />
+    <state x="765" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1612258393804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="218" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612258393804" />
+    <state x="2685" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612245405339" />
+    <state x="2654" y="190" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1612355570761">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2654" y="190" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612355570761" />
+    <state width="458" height="448" key="DebuggerActiveHint" timestamp="1612408704570">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="458" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612343819278" />
+    <state width="458" height="448" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612408704570" />
+    <state width="1589" height="366" key="GridCell.Tab.0.bottom" timestamp="1612410995903">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344656503" />
+    <state width="1589" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612410995903" />
+    <state width="1589" height="366" key="GridCell.Tab.0.center" timestamp="1612410995903">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="251" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344656503" />
+    <state width="1589" height="366" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612410995903" />
+    <state width="1589" height="366" key="GridCell.Tab.0.left" timestamp="1612410995902">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="251" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344656503" />
+    <state width="1589" height="366" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612410995902" />
+    <state width="1589" height="366" key="GridCell.Tab.0.right" timestamp="1612410995903">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="251" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344656503" />
+    <state width="1589" height="366" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612410995903" />
+    <state width="1375" height="305" key="GridCell.Tab.1.bottom" timestamp="1612408894701">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="236" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344530872" />
+    <state width="1375" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612408894701" />
+    <state width="1375" height="305" key="GridCell.Tab.1.center" timestamp="1612408894701">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="236" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344530872" />
+    <state width="1375" height="305" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612408894701" />
+    <state width="1375" height="305" key="GridCell.Tab.1.left" timestamp="1612408894701">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="236" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344530872" />
+    <state width="1375" height="305" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612408894701" />
+    <state width="1375" height="305" key="GridCell.Tab.1.right" timestamp="1612408894701">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state width="1859" height="236" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.999@0.0.1920.1040" timestamp="1612344530872" />
+    <state width="1375" height="305" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612408894701" />
+    <state x="2410" y="154" key="Maven.ArtifactSearchDialog" timestamp="1612358030825">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2410" y="154" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612358030825" />
+    <state x="2696" y="277" key="chooseDestDirectoryDialog" timestamp="1612245620928">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2696" y="277" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612245620928" />
+    <state x="2576" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1612244969780">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2576" y="323" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612244969780" />
+    <state x="2536" y="230" width="672" height="677" key="run.anything.popup" timestamp="1612410995922">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2536" y="230" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612410995922" />
+    <state x="2543" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1612410993210">
+      <screen x="1920" y="0" width="1920" height="999" />
+    </state>
+    <state x="2543" y="214" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1612410993210" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/digital/number/scanner/service/ScannerServiceIntegrationImplTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/digital/number/scanner/service/BaseScannerServiceIntegrationTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/digital/number/scanner/service/BaseScannerServiceIntegrationTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/number/scanner/service/DigitalNumberScannerService.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/digital_number_scanning$ScannerServiceUnitTest_testFinalNumber.ic" NAME="ScannerServiceUnitTest.testFinalNumber Coverage Results" MODIFIED="1612408610759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>digital.number.scanner.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
